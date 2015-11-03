@@ -8,7 +8,7 @@
   },
   "author": "",
   "repository": "git@github.com:tvararu/peak.git",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "react": "^0.14.2"
   }
