@@ -1,0 +1,15 @@
+{
+  "name": "peak",
+  "version": "1.0.0",
+  "description": "PEAK.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "repository": "git@github.com:tvararu/peak.git",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^0.14.2"
+  }
+}
